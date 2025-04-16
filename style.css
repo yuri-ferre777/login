@@ -1,0 +1,21 @@
+body{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(blue,red,white);
+
+}
+
+.login{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgbad(0, 0, 0, 0.9);
+    padding:90px;
+    border-radius: 25px;
+    color: white;
+}
